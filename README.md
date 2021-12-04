@@ -87,6 +87,7 @@ From the graph above, we can see that the trends for all 3 city types are pretty
 ## Summary
 
 Due to urban cities density, it makes sense that there are more rides, however there are 48% more drivers in urban cities compared to rides. On top of that, average fare per ride in urban cities is only $24.53, where driver is only getting average $16.57. This means the _**average fare per driver in rural and suburban cities is 2.3 to 3.3 times more**_ than average fare per driver in urban cities.
+
 In both suburban and rural cities, average fare per driver is higher than average fare per ride. This means that most drivers in suburban and rural cities are getting more rides or business compared to urban drivers or that each rides is longer than the rides in urban cities.  This means driver who _**drives for suburban and/or rural cities have more ride hails / business and can earn more per each ride compared to urban rides**_.
 
 Based on the results above, these are the 3 business recommendations for PyBer CEO to address disparities among city types.
