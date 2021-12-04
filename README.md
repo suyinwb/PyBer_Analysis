@@ -65,17 +65,18 @@ The "Proper" Conclusion is indicated below on [Summary](#summary)
 
 ## Analysis
 
-Below is the summary of rides, drives and fares by city types from the 2 datasets received.
+Below is the summary of rides, drivers and fares by city types from the 2 datasets received.
 
 >Summary of Rides, Drivers & Fares by City Types
 
 ![Pyber summary df](analysis/Pyber_summary_df.png)
 
->New Thomas High School 9th Graders Scores
+From this summary, we can see that rural cities have the lowest number of rides and drivers but highest average fare per ride at $34.62 and highest average fare per driver at $55.49.
+Even though urban cities have the highest total rides and total drivers, the average fare per ride and average fare per driver is the lowest among all city types. When we examine closer at the data, urban city type has more drivers, total of 2405, than rides, total of 1625. The other 2 city types have higher rides compare to drivers respectively.
 
-![New Thomas High School 9th Graders Scores](resources/Clean_student_data.png)
+>Summary of Rides, Drivers & Fares by City Types
 
-When we check the student data, we will confirm that there are _**416**_ students with no scores and that corresponds to the total students from Thomas High School in 9th grade. See the code below for reference.
+![Pyber summary df](analysis/Pyber_summary_df.png)
 
 
 ## Summary
