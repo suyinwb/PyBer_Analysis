@@ -69,7 +69,7 @@ First, start by nullifying the both the scores for Thomas High School 9th grader
 
 >Old Thomas High School 9th Graders Scores
 
-![Pyber summary df](resources/Pyber_summary_df.png)
+![Pyber summary df](analysis/Pyber_summary_df.png)
 
 >New Thomas High School 9th Graders Scores
 
