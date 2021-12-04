@@ -86,14 +86,14 @@ From the graph above, we can see that the trends for all 3 city types are pretty
 
 ## Summary
 
-Due to urban cities density, it makes sense that there are more rides, however there are 48% more drivers in urban cities compared to rides. On top of that, average fare per ride in urban cities is only $24.53, where driver is only getting average $16.57. This means the _**average fare per driver in rural and suburban cities**_ which is _**23 to 3.3 times more**_ than average fare per driver in urban cities.
-In both suburban and rural cities, average fare per driver is higher than average fare per ride. This means that most drivers in suburban and rural cities are getting more rides or business compared to urban drivers or that each rides is longer than the rides in urban cities.  This means driver who _**drives for suburban and/or rural cities can earn more per each ride compared to urban rides**_.
+Due to urban cities density, it makes sense that there are more rides, however there are 48% more drivers in urban cities compared to rides. On top of that, average fare per ride in urban cities is only $24.53, where driver is only getting average $16.57. This means the _**average fare per driver in rural and suburban cities is 2.3 to 3.3 times more**_ than average fare per driver in urban cities.
+In both suburban and rural cities, average fare per driver is higher than average fare per ride. This means that most drivers in suburban and rural cities are getting more rides or business compared to urban drivers or that each rides is longer than the rides in urban cities.  This means driver who _**drives for suburban and/or rural cities have more ride hails / business and can earn more per each ride compared to urban rides**_.
 
 Based on the results above, these are the 3 business recommendations for PyBer CEO to address disparities among city types.
 
 1. Change the app to incentivise urban drivers who has a ride ending at suburban / rural cities to _**continue serving rides that starts and ends at suburban / rural cities at the surrounding areas**_.
 1. _**Add an option for urban drivers who prefers to serve longer rides**_ so they can earn higher average per ride, to opt-in and therefore all / most of their rides will be for rides in suburban / rural cities.
-1. Create and option to _**redistribute drivers resource during different peak hours**_ to start _**receiving rides from closest adjacent suburban / rural cities**_. This means during peak hours in rural cities, suburban drivers will be eligible to receive rides for the area to redistribute driver resources from suburban to rural. Same goes for redistributing urban drivers to suburban.  
+1. Create and option to _**redistribute drivers resource during different peak hours**_ to start _**receiving rides from closest adjacent suburban / rural cities**_. This means during peak hours in suburban / rural cities, urban drivers will be eligible to receive rides for suburban / rural to redistribute driver resources from urban to suburban / rural.
 
 
 ## Appendix
