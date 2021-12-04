@@ -65,9 +65,9 @@ The "Proper" Conclusion is indicated below on [Summary](#summary)
 
 ## Analysis
 
-First, start by nullifying the both the scores for Thomas High School 9th graders.
+Below is the summary of rides, drives and fares by city types from the 2 datasets received.
 
->Old Thomas High School 9th Graders Scores
+>Summary of Rides, Drivers & Fares by City Types
 
 ![Pyber summary df](analysis/Pyber_summary_df.png)
 
