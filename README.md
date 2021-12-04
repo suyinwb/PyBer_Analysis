@@ -72,6 +72,7 @@ Below is the summary of rides, drivers and fares by city types from the 2 datase
 
 ![Pyber summary df](analysis/Pyber_summary_df.png)
 
+
 From this summary, we can see that rural cities have the lowest number of rides and drivers but highest average fare per ride at $34.62 and highest average fare per driver at $55.49.
 Even though urban cities have the highest total rides and total drivers, the average fare per ride and average fare per driver is the lowest among all city types. When we examine closer at the data, urban city type has more drivers, total of 2405, than rides, total of 1625. This means there is 48% more drivers to rides hailed.
 The other 2 city types have higher rides compare to drivers respectively.
@@ -81,7 +82,7 @@ The other 2 city types have higher rides compare to drivers respectively.
 
 ![Pyber summary](analysis/PyBer_fare_summary.png)
 
-From the graph above, we can see that the trends for all 3 city types are pretty consistent which means that when there is a surge is rides for urban cities, there is also a surge in rides for rural cities.
+From the graph above, we can see that the trends for all 3 city types are pretty consistent which means that when there is a surge in rides for urban cities, there is also a surge in rides for rural cities.
 
 ## Summary
 
