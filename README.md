@@ -52,6 +52,7 @@ ride_data_df = pd.read_csv(ride_data_to_load)
 #### 5. Assemble & Clean the Data
 * Merge the 2 datasets
 * Group by city type and dates
+* Visualise
 
 
 #### 6. Analyse for Trends
@@ -75,19 +76,23 @@ From this summary, we can see that rural cities have the lowest number of rides 
 Even though urban cities have the highest total rides and total drivers, the average fare per ride and average fare per driver is the lowest among all city types. When we examine closer at the data, urban city type has more drivers, total of 2405, than rides, total of 1625. This means there is 48% more drivers to rides hailed.
 The other 2 city types have higher rides compare to drivers respectively.
 
->Summary of Rides, Drivers & Fares by City Types
+
+>Total Fare by City Type between 2019-01-01 to 2019-04-28
 
 ![Pyber summary](analysis/PyBer_fare_summary.png)
 
+From the graph above, we can see that the trends for all 3 city types are pretty consistent which means that when there is a surge is rides for urban cities, there is also a surge in rides for rural cities.
 
 ## Summary
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
-From the analysis above, the most significant differences are due to Thomas High Schools' academic dishonesty are:
+Due to urban cities density, it makes sense that there are more rides, however there are 48% more drivers in urban cities compared to rides. On top of that, average fare per ride in urban cities is only $24.53, where driver is only getting average $16.57. This means the _**average fare per driver in rural and suburban cities**_ which is _**23 to 3.3 times more**_ than average fare per driver in urban cities.
+In both suburban and rural cities, average fare per driver is higher than average fare per ride. This means that most drivers in suburban and rural cities are getting more rides or business compared to urban drivers or that each rides is longer than the rides in urban cities.  This means driver who _**drives for suburban and/or rural cities can earn more per each ride compared to urban rides**_.
 
-1. Thomas High School overall scores fell from _**90.94% to 65.07%**_. This means _**25.9%**_ discrepancy.
-1. Thomas High School math scores fell from _**93.27%% to 66.91%**_. This means _**26.36%**_ discrepancy.
-1. Thomas High School reading scores fell from _**97.3% to 69.66%**_. This means _**27.64%**_ discrepancy.
+Based on the results above, these are the 3 business recommendations for PyBer CEO to address disparities among city types.
+
+1. Change the app to incentivise urban drivers who has a ride ending at suburban / rural cities to _**continue serving rides that starts and ends at suburban / rural cities at the surrounding areas**_.
+1. _**Add an option for urban drivers who prefers to serve longer rides**_ so they can earn higher average per ride, to opt-in and therefore all / most of their rides will be for rides in suburban / rural cities.
+1. Create and option to _**redistribute drivers resource during different peak hours**_ to start _**receiving rides from closest adjacent suburban / rural cities**_. This means during peak hours in rural cities, suburban drivers will be eligible to receive rides for the area to redistribute driver resources from suburban to rural. Same goes for redistributing urban drivers to suburban.  
 
 
 ## Appendix
