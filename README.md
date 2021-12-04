@@ -77,7 +77,7 @@ The other 2 city types have higher rides compare to drivers respectively.
 
 >Summary of Rides, Drivers & Fares by City Types
 
-![Pyber summary](analysis/Pyber_summary.png)
+![Pyber summary](analysis/PyBer_fare_summary.png)
 
 
 ## Summary
