@@ -94,7 +94,7 @@ Based on the results above, these are the 3 business recommendations for PyBer C
 
 1. Change the app to incentivise urban drivers who has a ride ending at suburban / rural cities to _**continue serving rides that starts and ends at suburban / rural cities at the surrounding areas**_.
 1. _**Add an option for urban drivers who prefers to serve longer rides**_ so they can earn higher average per ride, to opt-in and therefore all / most of their rides will be for rides in suburban / rural cities.
-1. Create and option to _**redistribute drivers resource during different peak hours**_ to start _**receiving rides from closest adjacent suburban / rural cities**_. This means during peak hours in suburban / rural cities, urban drivers will be eligible to receive rides for suburban / rural to redistribute driver resources from urban to suburban / rural.
+1. Create and option to _**redistribute drivers resource during different peak hours to receiving rides from closest adjacent suburban / rural cities**_. This means during peak hours in suburban / rural cities, urban drivers will be eligible to receive rides for suburban / rural to redistribute driver resources from urban to suburban / rural.
 
 
 ## Appendix
