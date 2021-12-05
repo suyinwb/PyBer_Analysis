@@ -82,7 +82,7 @@ The other 2 city types have higher rides compare to drivers respectively.
 
 ![Pyber summary](analysis/PyBer_fare_summary.png)
 
-From the graph above, we can see that the trends for all 3 city types are pretty consistent which means that when there is a surge in rides for urban cities, there is also a surge in rides for rural cities.
+From the graph above, we can see that the trends for all 3 city types are pretty consistent with small peaks throughout for each city types but nothing major which may lead to potential low drivers resources in each city types.
 
 ## Summary
 
