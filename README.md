@@ -31,7 +31,7 @@ After we merged these 2 datasets, we will be able to generate summaries for the 
 * ride_data.csv
 
 #### 3. Define Strategy & Metrics
-**Resource:** Python 3.6, Anaconda, Jupyter Notebook
+**Resource:** Python 3.6, Anaconda, Pandas, Jupyter Notebook
 
 1. Merge the 2 datasets
 1. Find total rides, total drivers, total fares, average fare per ride and average fare per driver.
